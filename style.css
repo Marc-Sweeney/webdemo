@@ -1,0 +1,76 @@
+
+h2{	
+	color: black;
+	margin: 0px;
+	font-family: sans-serif;
+	}
+   
+div{
+	margin-bottom:15px;
+
+
+
+}
+.nav{
+	height: 100px;
+	background-color:#cceeff;
+	width: 100%;
+	}
+	
+.hero{
+	height: 400px;
+	width: 100%; 
+	background-color:#ffd9b3;
+	
+	}
+	
+.aboutus{
+    height: 300px;
+	width: 59%; 
+	background-color:#cceeff;
+	float:left;
+	}
+	
+.social{
+    height: 300px;
+	width: 40%; 
+	background-color:#ffd9b3;
+	float:right;
+	}
+	
+.casestudy{
+    clear: both;
+    height: 300px;
+	width: 100%; 
+	background-color:#cceeff;
+	}
+	
+.whoweare{
+    height: 300px;
+	width: 32%; 
+	background-color:#ffd9b3;
+	float:left;
+	}
+	
+.whatwedo{
+    height: 300px;
+	width: 32%; 
+	background-color:#cceeff;
+	float:left;
+	margin-left: 15px;
+	}
+	
+.joinus{
+    height: 300px;
+	width: 32%; 
+	background-color:#ffd9b3;
+	float:left;
+	margin-left: 15px;
+	}
+	
+.footer{
+	clear: both;
+    height: 100px;
+	width: 100%; 
+	background-color:#ffd9b3;
+	}
